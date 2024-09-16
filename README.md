@@ -36,13 +36,15 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
 
 ## Configura el archivo de entorno
 
-    Crea un archivo .env en la raíz del proyecto y añade la siguiente línea con tu API key:
+1. **Crea un archivo .env en la raíz del proyecto y añade la siguiente línea con tu API key**
+    
     ```bash
     VITE_API_KEY=your_api_key_here
 
 ## Ejecución
+
+1. **Para ejecutar la aplicación en tu entorno local, utiliza el siguiente comando**
     
-    Para ejecutar la aplicación en tu entorno local, utiliza el siguiente comando:
     ```bash
     npm run dev
 
@@ -85,4 +87,4 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
 
 ## Contacto
     
-    Si tienes alguna pregunta o comentario, puedes contactarme en escarlata.2003@gmail.com.
+**Si tienes alguna pregunta o comentario, puedes contactarme en escarlata.2003@gmail.com.**
