@@ -41,12 +41,14 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
     VITE_API_KEY=your_api_key_here
 
 4. **Ejecución**
+    
     Para ejecutar la aplicación en tu entorno local, utiliza el siguiente comando:
     ```bash
     npm run dev
 
 
 5. **Estructura del Proyecto**
+    
     -public -> Carpeta que contiene archivos estáticos públicos.
     -src
         -assets -> Imagenes o archivos SVG
