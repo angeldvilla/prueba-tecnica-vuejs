@@ -50,17 +50,29 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
 5. **Estructura del Proyecto**
     
     -public -> Carpeta que contiene archivos estáticos públicos.
+    
     -src
+        
         -assets -> Imagenes o archivos SVG
+        
         -components -> Componentes y Vistas principales de la aplicación.
+       
         -routes
+            
             -index.js -> Archivo principal para definir rutas de la aplicacion
+        
         -utils  
+          
           -constants.js -> Constantes para importar en las peticiones con axios
+          
           -store.js -> Gestión del estado con Vuex.
+    
     App.vue -> Componente raíz de la aplicación.
+    
     main.js -> Archivo principal de entrada de la aplicación
+    
     style.css -> Archivo para los estilos y bases de TailwindCSS
+    
     vite.config.js -> Configuración de Vite.
 
 6. **Scripts**
