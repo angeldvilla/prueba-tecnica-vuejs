@@ -76,9 +76,13 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
     vite.config.js -> Configuración de Vite.
 
 6. **Scripts**
+    
     -npm run dev: Inicia el servidor de desarrollo.
+    
     -npm run build: Crea una versión de producción optimizada de la aplicación.
+    
     -npm run preview: Previsualiza la versión de producción generada.
 
 7. **Contacto**
+    
     Si tienes alguna pregunta o comentario, puedes contactarme en escarlata.2003@gmail.com.
