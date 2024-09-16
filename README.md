@@ -34,20 +34,20 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
     npm install
 
 
-3. **Configura el archivo de entorno**
+## Configura el archivo de entorno
 
     Crea un archivo .env en la raíz del proyecto y añade la siguiente línea con tu API key:
     ```bash
     VITE_API_KEY=your_api_key_here
 
-4. **Ejecución**
+## Ejecución
     
     Para ejecutar la aplicación en tu entorno local, utiliza el siguiente comando:
     ```bash
     npm run dev
 
 
-5. **Estructura del Proyecto**
+## Estructura del Proyecto
     
     -public -> Carpeta que contiene archivos estáticos públicos.
     
@@ -75,7 +75,7 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
     
     vite.config.js -> Configuración de Vite.
 
-6. **Scripts**
+## Scripts
     
     -npm run dev: Inicia el servidor de desarrollo.
     
@@ -83,6 +83,6 @@ Para ejecutar este proyecto, necesitas tener instaladas las siguientes herramien
     
     -npm run preview: Previsualiza la versión de producción generada.
 
-7. **Contacto**
+## Contacto
     
     Si tienes alguna pregunta o comentario, puedes contactarme en escarlata.2003@gmail.com.
